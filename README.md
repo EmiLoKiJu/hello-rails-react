@@ -187,6 +187,7 @@ npm install axios
 ```
 
 The file structure for react-redux is in the javascript folder, as it follows:
+```
 |-- app/
 |   |-- javascript/
 |   |   |-- components/
@@ -194,6 +195,7 @@ The file structure for react-redux is in the javascript folder, as it follows:
 |   |   |-- redux/
 |   |   |   |-- store.js
 |   |   |-- application.js
+```
 
 Then, customize as you like to follow your requirements
 
